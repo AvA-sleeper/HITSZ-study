@@ -8,7 +8,10 @@ DP + KMP + Manacher
 
 DP
 
-、、、
+<details><summary>CODE</summary>
+<p>
+    
+    ```
     inline void solve() {
     //    into();
         read(n);
@@ -27,4 +30,8 @@ DP
         }
         writeln(ans);
     }
-、、、
+    ```
+
+</p>
+</details>
+
