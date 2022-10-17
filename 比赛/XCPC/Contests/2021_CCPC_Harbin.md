@@ -56,9 +56,9 @@ dp 启发式合并 dsu on tree
 
 # [D.Math master](https://codeforces.com/gym/103447/problem/D)
 
-数字最多 $\omega = 19$ 位，$2^{ \omega}$暴力枚举所有的数字组合，然后检验即可。
+数字最多 $\omega = 19$ 位， $2^{ \omega }$暴力枚举所有的数字组合，然后检验即可。
 
-时间复杂度：$O(T \omega w^{ \omega})$
+时间复杂度： $O(T \omega w^{ \omega})$
 
 
 
