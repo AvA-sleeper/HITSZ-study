@@ -4,6 +4,8 @@ DP + KMP + Manacher
 
 （挖坑）
 
+
+
 # [B.Magical Subsequence](https://codeforces.com/gym/103447/problem/B)
 
 DP
@@ -21,7 +23,6 @@ $dp[i] = max(dp[i - 1], maxx[s - a[i]] + 2)$ ，其中 $maxx[x]$ 表示在 $i$ �
     
 ```
 inline void solve() {
-//    into();
     read(n);
     for(int i = 1; i <= n; i++) read(a[i]);
     for(int s = 2; s <= 200; s++) {
@@ -42,4 +43,22 @@ inline void solve() {
 
 </p>
 </details>
+
+
+
+# [C.Colorful Tree](https://codeforces.com/gym/103447/problem/C)
+
+dp 启发式合并 dsu on tree
+
+（挖坑）
+
+
+
+# [D.Math master](https://codeforces.com/gym/103447/problem/D)
+
+数字最多 $\omega = 19$ 位，$2^{\omega}$暴力枚举所有的数字组合，然后检验即可。
+
+时间复杂度：$O(T\omega w^{\omega})$
+
+
 
