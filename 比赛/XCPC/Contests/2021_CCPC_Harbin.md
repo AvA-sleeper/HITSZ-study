@@ -62,3 +62,37 @@ dp 启发式合并 dsu on tree
 
 
 
+# [E.Power and Modulo](https://codeforces.com/gym/103447/problem/E)
+
+签到题
+
+
+
+# [F.Master Spark](https://codeforces.com/gym/103447/problem/F)
+
+扫描线
+
+（挖坑）
+
+
+
+# [G.Damaged Bicycle](https://codeforces.com/gym/103447/problem/G)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
